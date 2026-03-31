@@ -1,9 +1,9 @@
 
-### hey, i'm benard 👋
+### Hey, I'm Benard 👋
 
-i build software that solves problems i've actually had — a job application bot that landed me interviews, a browser for my low-spec laptop, a GUI wrapper because scrcpy's CLI was annoying me. sometimes i build things for other people too.
+I build software that solves problems i've actually had , like a job application bot that landed me interviews, a browser for my low-spec laptop, a GUI wrapper because scrcpy's CLI was annoying me. sometimes i build things for other people too.
 
-**cs student @ multimedia university of kenya · based in nairobi**
+**A Computer Science student @ multimedia university of kenya · based in nairobi**
 
 ---
 
