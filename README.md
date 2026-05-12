@@ -1,18 +1,18 @@
+###hey, i'm Benard 
+i automate things that shouldn't be manual — pipelines, deployments, ML workflows.
+i also build the software that runs on that infrastructure, from backend APIs to web UIs,
+because understanding the full stack makes you a better engineer at every layer.
 
-### hey, i'm Benard 👋
-
-i build software that solves problems i've actually had , like a job application bot that landed me interviews, a browser for my low-spec laptop, a GUI wrapper because scrcpy's CLI was annoying me. sometimes i build things for other people too.
-
-**a computer science student @ multimedia university of kenya · based in nairobi**
-
+*computer science student @ multimedia university of kenya · based in nairobi
 ---
-
-#### what i work with
-
+###what i work with
 ```text
-languages    TypeScript · Kotlin · Python · Java · JavaScript
-frontend     React · Next.js · D3.js · Android (Kotlin/Java) · Electron
+infra        Docker · Kubernetes · Terraform · AWS · Azure · GCP · Linux
+ci/cd        Jenkins · GitHub Actions · ArgoCD · Fastlane
+ml/ai        Gemini AI · TensorFlow · SageMaker · MLflow · LLM tooling
+languages    TypeScript · Python · Kotlin · Java · JavaScript · Bash
 backend      Node.js · Express · FastAPI · WebSockets · Redis
+frontend     React · Next.js · D3.js · Android (Kotlin/Java) · Electron
 data         PostgreSQL · MongoDB · ClickHouse · SQLite · Supabase
-infra        Docker · Kubernetes · Terraform · AWS · Linux
-ml/ai        TensorFlow · Gemini AI · SageMaker · Puppeteer
+
+
