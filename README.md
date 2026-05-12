@@ -1,5 +1,5 @@
 hey, i'm benard        
-i automate things that shouldn't be manual — pipelines, deployments, ML workflows.  
+i automate things that shouldn't be manual like pipelines, deployments, ML workflows.  
 i also build the software that runs on that infrastructure, from backend APIs to web UIs,  
 because understanding the full stack makes you a better engineer at every layer.
 
