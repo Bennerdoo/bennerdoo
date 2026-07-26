@@ -19,4 +19,12 @@ computer science student @ multimedia university of kenya · based in nairobi
 | **frontend** | React · Next.js · D3.js · Android (Kotlin/Java) · Electron |
 | **data** | PostgreSQL · MongoDB · ClickHouse · SQLite · Supabase |
 
+### what I contribute (functions)
 
+- **Infra** — design and implement infrastructure as code, cluster provisioning, service orchestration, and monitoring for reliable production systems.
+- **CI/CD** — build automated pipelines for testing, building, and releasing software; set up continuous delivery with ArgoCD and GitHub Actions.
+- **ML/AI** — develop training and deployment workflows, experiment tracking, model serving, and integration with cloud ML platforms.
+- **Languages & tooling** — implement services, libraries, and automation in TypeScript, Python, Kotlin, and Bash to glue systems together.
+- **Backend** — create scalable APIs, authentication, caching, and real-time systems to power applications.
+- **Frontend** — build interactive web UIs and data visualizations, and Android apps for client-facing experiences.
+- **Data** — design schemas, optimize queries, and maintain databases for analytics and transactional workloads.
